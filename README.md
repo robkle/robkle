@@ -2,10 +2,10 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=robkle&layout=compact&hide=Makefile,Objective-C&theme=vue)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=robkle&show_icons=true&count_private=true&theme=vue)
 
-
+<!--
 🔭 **I’m currently working on** | Image gallery with PHP | [image_gallery](https://github.com/robkle/image_gallery)  
 🌱 **I’m currently learning** | Python and C++ | [TicTacToe](https://github.com/robkle/kivy_calculator), [password_manager](https://github.com/robkle/password_manager)
-<!--
+
 **robkle/robkle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
